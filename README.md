@@ -1,10 +1,10 @@
-# D&D Beyond Live-Update Campaign Page
+# D&D Beyond Live-Update Campaign Page with Print Party
 
  ![Static Badge](https://img.shields.io/badge/JavaScript-x?style=plastic&logo=javascript&color=%235b5b5b)
 
 ![Live Update Campaign Page Splash](./images/live-update-campaign-print.png)
 
-**D&D Beyond Live-Update Campaign Page** is a script that allows you to view live data about each of the characters in a D&D Beyond campaign from the Campaign page itself, modified to also allow for printing the entire party on simplified character sheets.
+**D&D Beyond Live-Update Campaign Page with Print Party** is a script that allows you to view live data about each of the characters in a D&D Beyond campaign from the Campaign page itself, modified to also allow for printing the entire party on simplified character sheets.
 
 - [D\&D Beyond Live-Update Campaign Page](#dd-beyond-live-update-campaign-page)
   - [1. Prerequisites](#1-prerequisites)
