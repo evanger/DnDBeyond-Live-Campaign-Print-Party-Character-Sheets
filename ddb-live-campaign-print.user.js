@@ -768,7 +768,7 @@ function fetchRequest(url, body, headers, cookies) {
     return fetch(url, options);
 }
 
-
+// This function made with Claude AI
 function getCharacterDisplayData(char) {
     // Helper to extract comma-separated list from array
     const getList = (array, property) => {
