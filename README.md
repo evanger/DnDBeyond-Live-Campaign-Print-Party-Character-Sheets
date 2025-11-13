@@ -54,7 +54,7 @@ The data is automatically updated every 60 seconds.
 
 You will also see a "Print Party" button which will generate a new, simplified two-page character sheet for each party member. You can select the accent color for the character sheets. This new simplified sheet is based on that used on D&D Beyond for the D&D cartoon sample characters.
 
-(./images/sheet_sample.png)
+![Live Update Campaign Page Splash](./images/sheet_sample.png)
 
 ## 4. What does it look like?
 
