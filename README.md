@@ -14,6 +14,7 @@
   - [5. Credits](#5-credits)
   - [6. License](#6-license)
   - [7. Version Notes](#7-version-notes)
+    - [v 1.2](#v-12)
     - [v 1.1.1](#v-111)
     - [v 1.1](#v-11)
 
