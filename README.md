@@ -36,7 +36,7 @@ Ensure you are running a browser extension that takes UserScripts (see Prerequis
 
 Click on the Install Script button below to install this user script to your browser extension, then follow the instructions from your browser extension.
 
-[![Live Update Campaign Page Splash](./images/install-button.png)]([https://github.com/evanger/DnDBeyond-Live-Campaign-Print-Party-Character-Sheets/blob/master/ddb-live-campaign-print.user.js]
+[![Live Update Campaign Page Splash](./images/install-button.png)]([https://github.com/evanger/DnDBeyond-Live-Campaign-Print-Party-Character-Sheets/blob/master/ddb-live-campaign-print.user.js])
 
 ## 3. How to Use
 
